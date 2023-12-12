@@ -209,4 +209,4 @@ D (+/-)	60–69
 F (+/-)	< 60
 
 Inspiration/Sources:
-https://github.com/Hamim-Hussain/Crowdfunding_ETL/blob/main/ETL_Mini_Project_MH_Hussain.ipynb
+https://github.com/Hamim-Hussain/Crowdfunding_ETL/tree/main
